@@ -1,4 +1,6 @@
-# Portafolis interactiu
+# portafolis-opencode
+
+## Portafolis interactiu
 
 Portafolis personal fet amb **Next.js 16** (App Router), **TypeScript** i **Tailwind CSS v4**. Inclou un explorador de projectes amb **filtre per tipus** (frontend, backend, full stack, mobile, devops, disseny i altres) i cerca per text.
 
